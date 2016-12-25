@@ -1,0 +1,5 @@
+#folderl log
+log/
+
+#txt-files
+docs/*.txt
